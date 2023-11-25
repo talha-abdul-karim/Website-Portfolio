@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "September 2020 - June 2024",
+            "cardTitle": "BSCS, Computer Science",
+            "cardSubtitle":"FAST National University, Karachi",
+            "cardDetailedText": "CGPA - 3.2",
+            "icon" : {
+                "src": "images/education/nu.png"
+            }
+        },
+        {
+            "title": "Apr 2020",
+            "cardTitle": "Alevels",
+            "cardSubtitle":"Pakistan International School Jeddah",
+            "cardDetailedText": "2A*, 1A"
+        }
+    ]
+}

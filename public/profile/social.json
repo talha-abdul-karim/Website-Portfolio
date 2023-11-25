@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "www.linkedin.com/in/talha-abdul-karim-154463270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/talha-abdul-karim"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:k201647@nu.edu.pk"
+        }
+    ]
+}
