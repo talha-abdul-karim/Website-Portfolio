@@ -5,6 +5,7 @@ import { NavLink } from 'react-router-dom';
 import styled, { ThemeContext } from 'styled-components';
 import endpoints from '../constants/endpoints';
 import ThemeToggler from './ThemeToggler';
+// making changes task 4
 
 const styles = {
   logoStyle: {
